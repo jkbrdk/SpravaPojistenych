@@ -3,7 +3,7 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
 
-        SpravaPojistenych program = new SpravaPojistenych();
+        Evidence program = new Evidence();
         program.programEvidence();
     }
 }

@@ -5,7 +5,7 @@ import java.util.HashSet;
 import java.util.Scanner;
 import java.util.Set;
 
-public class SpravaPojistenych {
+public class Evidence {
 
     Scanner sc = new Scanner(System.in, "Windows-1250");
 
